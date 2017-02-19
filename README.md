@@ -18,5 +18,3 @@ Hopefully I can at least make them both "drill down" and work like regular rofi 
 3. Nice ssh mode that parses ssh\_config.
 4. Nice window switcher.
 5. Nice runner.
-
-3 / 4 / 5 can probably just be done by recursively calling rofi and using the existing modes. For 1 / 2 every autopass thing I have tried so far has been a bit naff.
